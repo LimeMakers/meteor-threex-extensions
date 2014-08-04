@@ -1,0 +1,9 @@
+{
+  "name": "threex-extensions",
+  "description": "Several useful extensions (domevents, htmlmixer, objcoord and windowresize) for three.js from the threex collection",
+  "homepage": "https://github.com/LimeMakers/meteor-threex-extensions",
+  "author": "Jerome Etienne (http://www.threejsgames.com/)",
+  "version": "0.1",
+  "git": "https://github.com/LimeMakers/meteor-threex-extensions.git",
+  "packages": {}
+}
